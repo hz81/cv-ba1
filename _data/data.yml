@@ -196,7 +196,7 @@ achievements:
 experiences:
     title: Experiences
     info:
-      - role: Senior System Analyst
+      - role: Business Analyst
         time: Jun 2022 - Present
         company: PT. Xcidic Technology Indonesia - IT Solution Provider
         site: https://xcidic.com
@@ -216,7 +216,7 @@ experiences:
             - Managed a team of coders to perform their best in delivering good-quality products
             - Implemented ITSM to the ongoing product maintenance
             - Implemented project life-cycle procedure as a company guideline to manage projects
-      - role: Senior System Analyst
+      - role: Business Analyst
         time: Apr 2019 - May 2022
         company: PT. KDB Tifa Finance,tbk - Finance & Leasing Company
         site: https://www.kdbtifa.co.id
@@ -236,7 +236,7 @@ experiences:
             - Established and configured Git repository environment under the Ubuntu Linux platform
             - Established a standard decision support system in the form of dashboard performance views using Data Studio tools
             - Revamped a company profile website, complete with its Content Management System (CMS)
-      - role: System Analyst
+      - role: Business Analyst
         time: Jan 2012 - Feb 2019
         company: Manulife Financial - Life Insurance Company
         site: https://www.manulife.co.id
