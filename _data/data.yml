@@ -11,7 +11,7 @@ sidebar:
 
     # Profile information
     name: Herry Zhouldy
-    tagline: System Analyst
+    tagline: Business Analyst
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -25,8 +25,8 @@ sidebar:
     github: hz81
     github-link: https://github.com/hz81
     website: Herry's CV
-    website-link: https://hz81.github.io/cv-sa1
-    download-pdf: https://drive.google.com/file/d/1SDosAJwEz52YUvqZWN35Vrk9oDxMfccT/view?usp=sharing
+    website-link: https://hz81.github.io/cv-ba1
+    download-pdf: https://drive.google.com/file/d/1xl68eVe5pYUCfP2kyRzxFIJJedmbpoYL/view?usp=sharing
 
     characters:
       title: Characters
